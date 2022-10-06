@@ -32,7 +32,7 @@
 	    <!-- 2. email 입력할 수 있는 폼 만들기 -->
 	    <div class="form-group">
 	      <label for="email">email :</label>
-	      <input type="text" class="form-control" id="email" name="email">
+	      <input type="email" class="form-control" id="email" name="email">
 	    </div>
 	    
 	    
